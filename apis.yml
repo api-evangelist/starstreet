@@ -25,7 +25,7 @@ x-status: acquired-redirect
 x-status-note: 'starstreet.com 301-redirects to www.draftkings.com (probed 2026-07-21);
   no independent StarStreet web/API/developer surface — the fantasy-sports startup was
   absorbed into DraftKings. No API surface to enrich; all /.well-known/ probes returned 404.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
